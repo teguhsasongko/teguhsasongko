@@ -1,4 +1,4 @@
-### Hello World 🌍 I'm [Teguh Tri Sasongko!](https://teguhsasongko.id) 👋
+### Hello World 🌍 I'm [Teguh Tri Sasongko!](https://teguhsasongko.id) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
 <a href="https://facebook.com/teguhsasongko.id">
   <img align="left" alt="Teguh Tri Sasongko's | Facebook" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"/>
@@ -15,6 +15,7 @@
 <a href="https://discord.gg/36aQ52YbCG">
   <img align="left" alt="Teguh Tri Sasongko's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=teguhsasongko.teguhsasongko)
 
 <br />
