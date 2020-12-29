@@ -4,7 +4,7 @@
   <img align="left" alt="Teguh Tri Sasongko's | Facebook" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"/>
 </a>
 <a href="https://instagram.com/teguhsasongko.id">
-  <img align="left" alt="Teguh Tri Sasongko's  | Instagram" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg"/>
+  <img align="left" alt="Teguh Tri Sasongko's  | Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"/>
 </a>
 <a href="https://twitter.com/teguhtsasongko">
   <img align="left" alt="Teguh Tri Sasongko's  | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
@@ -15,7 +15,7 @@
 <a href="https://discord.gg/36aQ52YbCG">
   <img align="left" alt="Teguh Tri Sasongko's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
 </a>
-![] (https://visitor-badge.glitch.me/badge?page_id=teguhsasongko.teguhsasongko)
+![](https://visitor-badge.glitch.me/badge?page_id=teguhsasongko.teguhsasongko)
 
 <br />
 <br />
