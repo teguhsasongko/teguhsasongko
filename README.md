@@ -25,6 +25,7 @@ I am studied at Jakarta State Polytechnic, taking studies in the Department of I
 
 - 📚 I’m currently learning Android Studio with Java
 - 📚 I’m currently learning User Interface and User Experience
+- 📚 I’m currently learning Cyber Security and System Analyst
 - 💬 Ask me about anything, I am happy to help;
 
 📈 My GitHub Stats
