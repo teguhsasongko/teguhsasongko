@@ -23,9 +23,7 @@
 
 I am studied at Jakarta State Polytechnic, taking studies in the Department of Information and Computer Engineering, Concentration of Multimedia and Network Engineering I am very enthusiast Cyber Security, Web Programming, and Network Engineering from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
-- 📚 I’m currently learning Android Studio with Java
-- 📚 I’m currently learning User Interface and User Experience
-- 📚 I’m currently learning Cyber Security and System Analyst
+- 📚 I’m currently Full Time Learner
 - 💬 Ask me about anything, I am happy to help;
 
 📈 My GitHub Stats
